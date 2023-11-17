@@ -34,4 +34,5 @@ descrições. Outros objetivos podem ser elencados, tais como:
 ### Diagrama de classes
 ![image](https://github.com/Luisa-Cavalheiro/projeto-integrador-senac/assets/107591176/be90ab30-0488-4f4c-98ed-cddaa952615e)
 
-## Protototação
+## Prototipação
+https://www.figma.com/file/Sehnjv5qcJQIV2QsZeMidL/cadastro-aluno?node-id=0%3A1&type=design 
