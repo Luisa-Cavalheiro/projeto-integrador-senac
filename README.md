@@ -11,7 +11,10 @@ PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS DINÂMICOS BASEADOS NA WEB 02/20
 
 
 ## Introdução
-Em um contexto de desenvolvimento de sistemas dinâmicos para a web, o objetivo do presente trabalho consiste em representar as atividades vivenciadas no desenvolvimento do sistema de uma instituição de ensino superior, por meio de diagramas, descrições, como também da prototipação navegável de sua interface. Em um momento futuro, outros objetivos podem ser elencados, tais como: (1) desenvolver soluções para servidores e para clientes; e (2) implementar a solução proposta por meio de código-fonte.
+Em um contexto de desenvolvimento de sistemas dinâmicos para a web, o objetivo do presente trabalho consiste em representar as atividades vivenciadas no desenvolvimento do sistema de uma instituição de ensino superior, por meio de diagramas, descrições, como também da prototipação navegável de sua interface. 
+Em um momento futuro, outros objetivos podem ser elencados, tais como: 
+(1) desenvolver soluções para servidores e para clientes; e 
+(2) implementar a solução proposta por meio de código-fonte.
 
    
 ## Modelagem 
